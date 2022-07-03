@@ -1,0 +1,12 @@
+body{
+    background: bisque;
+}
+#cam{
+    border-style: ridge;
+    border-width: thick;
+    height: 300px;
+    width: 300px;
+}
+h2{
+    width: 70%;
+}
